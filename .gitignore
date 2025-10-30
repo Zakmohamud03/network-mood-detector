@@ -1,0 +1,10 @@
+# Ignore results and system files
+*.log
+*.txt
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+mood_results.txt
+*.png
+*.jpg
